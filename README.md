@@ -17,7 +17,7 @@ O objetivo deste exercício foi **reproduzir a geometria básica da catedral**, 
 - Uso de **curvas geradoras**  
 - Comando **LOFT** para superfícies  
 
-## 🚀 Próximos Passos (opcional)
+## 🚀 Próximos Passos 
 - Modelagem dos **vitrais**  
 - Renderização simplificada   
 
